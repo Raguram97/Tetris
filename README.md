@@ -41,7 +41,13 @@ A classic Tetris game implemented in C# using Windows Presentation Foundation (W
 - **Up Arrow**: Rotate tetromino
 - **Down Arrow**: Soft drop (accelerate downward movement)
 - **Spacebar**: Hard drop (instant drop to the bottom)
-- **P**: Pause/Resume the game
+- **C**: Hold or swap the current tetromino
+
+## 📸 Screenshot
+
+![Tetris Gameplay](Screenshot.png)
+
+
 
 ## Project Structure
 
